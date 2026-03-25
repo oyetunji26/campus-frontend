@@ -3,12 +3,14 @@
 @theme {
   /* --- Colors --- */
   --color-burnt-amber: #f57c00;
-  --color-cool-slate: #334155;
+  --color-cool-slate: #292524;
+  /* #292524; */
+  /* #334155; */
   --color-soft-pearl: #f8f9fa;
   --color-warm-grey: #e2e8f0;
 
   /* --- Brand Aliases --- */
-  --color-primary: var(--color-burnt-amber);
+  /* --color-primary: var(--color-burnt-amber); */
   --color-secondary: var(--color-cool-slate);
   --color-background: var(--color-soft-pearl);
 
@@ -62,5 +64,5 @@ h4 {
 /* Utility for the 'Lighthouse' effect */
 .lighthouse-glow {
   box-shadow: 0 0 20px rgba(245, 124, 0, 0.2);
+  /* @apply bg-stone-800; */
 }
-

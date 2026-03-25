@@ -42,3 +42,11 @@ Primary/Action,Burnt Amber,#F57C00,"Buttons, ""Place Bid"" alerts, and logos."
 Surface/Base,Soft Pearl,#F8F9FA,"Main background to keep it airy and ""roomy."""
 Secondary Neutral,Cool Slate,#334155,Typography and primary navigation.
 Accent Neutral,Warm Grey,#E2E8F0,"Border lines, card containers, and input fields."
+
+
+
+add content and make it full 
+remove shadow behind trusted by 2400 student
+border not totally rounded 
+work out the pages on the footer 
+blur the footer out to 
